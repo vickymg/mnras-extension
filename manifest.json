@@ -5,11 +5,11 @@
   "version": "1.0",
   "browser_action": {
     "default_icon": "planet.png",
-    "default_popup": "popup-page.html",
+    "default_popup": "popup.html",
     "default_title":"MNRAS most read"
   },
   "permissions": [
     "tabs"
   ],
-  "content_security_policy": "script-src 'self' https://www.google.com;object-src 'self'"
+  "content_security_policy": "script-src 'self' https://www.google.com; object-src 'self'"
 }
