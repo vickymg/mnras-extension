@@ -4,6 +4,7 @@
   "description": "This extension displays the most read articles from MNRAS.",
   "version": "1.0",
   "browser_action": {
+    "default_icon": "planet.png",
     "default_popup": "popup-page.html",
     "default_title":"MNRAS most read"
   },
