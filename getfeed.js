@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#feed").PaRSS("http://mnras.oxfordjournals.org/rss/mfr.xml",
+  $("#feed").PaRSS("http://mnras.oxfordjournals.org/rss/mfc.xml",
   5,
   "M jS g:i a",
   true);

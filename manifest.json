@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "MNRAS most read",
-  "description": "This extension displays the most read articles from MNRAS.",
+  "name": "MNRAS most cited",
+  "description": "This extension displays the most cited articles from MNRAS.",
   "version": "1.0",
   "browser_action": {
-    "default_icon": "planet.png",
+    "default_icon": "planet-19.png",
     "default_popup": "popup.html",
-    "default_title":"MNRAS most read"
+    "default_title":"MNRAS most cited"
   },
   "permissions": [
     "tabs"
